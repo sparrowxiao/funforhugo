@@ -1,0 +1,2 @@
+# funforhugo
+Try hugo tempalte
