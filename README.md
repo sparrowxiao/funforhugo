@@ -1,2 +1,3 @@
 # funforhugo
-Try hugo tempalte
+- [x] Try hugo tempalte
+- [ ] Try forestry.io CMS
