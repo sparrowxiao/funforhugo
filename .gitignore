@@ -1,0 +1,5 @@
+#ignore folder named 'public' this is for fun I won't publish it to any place
+public/
+
+#ignore generator files
+resources/_gen/
